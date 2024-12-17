@@ -65,7 +65,7 @@ To host FunBanker yourself, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/FunBanker.git
+   git clone https://github.com/your-username/FunBanker-discord-bot.git
    ```
 2. Install dependencies:
    ```bash
