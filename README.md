@@ -38,19 +38,6 @@ FunBanker is a highly interactive and polished Discord bot that brings together 
 
 ---
 
-## 🎨 **Screenshots & Previews**
-
-1. **Economy in Action**:  
-   📸 *Earn coins and shop for items!*  
-2. **Interactive Memes**:  
-   📸 *Scroll through hilarious memes with Next/Prev buttons!*  
-3. **Live Stock Charts**:  
-   📈 *Track your favorite stocks with real-time charts.*  
-4. **Stylish UI**:  
-   📸 *Enjoy beautiful embeds and buttons for a smooth user experience.*  
-
----
-
 ## 🔧 **Commands Quick Reference**
 
 | Command              | Description                             |
