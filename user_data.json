@@ -1,0 +1,37 @@
+{
+    "1196888712177537037": {
+        "coins": 425,
+        "inventory": {},
+        "last_daily": "2024-12-17T13:23:05.154238",
+        "pets": [
+            {
+                "name": "dog",
+                "hungry": false,
+                "age": 0,
+                "mood": "happy"
+            },
+            {
+                "name": "dog",
+                "hungry": false,
+                "age": 0,
+                "mood": "happy"
+            }
+        ],
+        "adventure_progress": {},
+        "language": "en",
+        "reminders": [],
+        "hangman_sessions": {},
+        "guess_number_session": null,
+        "karaoke_session": null,
+        "rps_session": null,
+        "polls_created": 0,
+        "user_stocks": {
+            "MEME": 1
+        },
+        "quiz_score": 0,
+        "achievements": [],
+        "cooldowns": {},
+        "joke_used": false,
+        "riddle_used": false
+    }
+}
