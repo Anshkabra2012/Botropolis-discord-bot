@@ -95,8 +95,6 @@ To host FunBanker yourself, follow these steps:
 
 Have ideas to make FunBanker even better?  
 - Open an issue or pull request on GitHub!  
-- Share feedback via `!feedback <your-message>` on Discord.
-
 ---
 
 ## 📄 **License**
