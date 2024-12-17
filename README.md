@@ -1,6 +1,3 @@
-Here's a **fun and engaging README** for your bot. I've also included a catchy name and a clear structure to attract people on GitHub! 🚀
-
----
 
 # 🎉 **FunBanker: The Ultimate Fun & Economy Discord Bot** 🚀
 
